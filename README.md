@@ -40,6 +40,56 @@ This sample data mimics the structure and characteristics of real EOG recordings
 
 > 📌 For applying the pipeline to your own data, ensure the signals follow the same sampling frequency and format conventions as shown in the provided examples.
 
+---
+
+## 🛠️ Requirements
+
+The code was developed and tested using **Python 3.9+**. Below are the core dependencies required to run the blink detection and analysis pipeline:
+
+### 📦 Core Libraries
+
+- `pandas`  
+- `scikit-learn`  
+- `opencv-python`
+
+### 🧠 Signal Processing
+
+- `scipy`  
+- `numpy`  
+- `matplotlib`  
+- `biosppy` *(for physiological signal analysis, optional)*  
+- `pywt` *(for wavelet transforms, optional)*
+
+### ✅ Installation
+
+You can install the required packages with:
+
+```bash
+pip install pandas scikit-learn opencv-python scipy numpy matplotlib biosppy pywt
+```
+
+> 💡 We recommend using a virtual environment (e.g., `venv` or `conda`) to manage dependencies.
+
+---
+
+## 📁 Repository Structure
+
+Below is an overview of the main components of this repository:
+
+```
+├── blinked_working_directory.ipynb   # Main notebook for exploring and testing the pipeline
+├── blinked/                          # Custom blink detection and signal analysis package
+├── blinked_master/                  # Optimized version of the blink analysis pipeline
+├── Systane/
+│   ├── data/test_data.txt              # Simulated test EOG data
+│   └── Read_Data.ipynb                 # Script to load and parse the sample test data
+├── blink_params.py                  # Helper utility functions for blink detection (editable)
+├── settings.py                      # Stores the path to the input data
+```
+
+> ⚠️ **Important:**  
+> If you are using the **test dataset**, make sure to **update the data path** in `settings.py` accordingly.
+
 
 # Citation
 If you use this code for your work, please cite us. 
