@@ -1,7 +1,5 @@
 # Eye Blink Data Analysis  
 
-# Eye Blink Data Analysis
-
 This repository contains the **official code implementation** for the conference paper:
 
 **[Fast sampling electrooculogram (EOG) for recording blinking kinematics](https://iovs.arvojournals.org/article.aspx?articleid=2799795)**  
