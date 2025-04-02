@@ -91,9 +91,13 @@ Below is an overview of the main components of this repository:
 > If you are using the **test dataset**, make sure to **update the data path** in `settings.py` accordingly.
 
 
-# Citation
-If you use this code for your work, please cite us. 
-```
+---
+
+## 📝 Citation
+
+If you use this code or methodology in your research, please cite the following:
+
+```bibtex
 @article{
   title={Real-Time Eye Tracking Using Heat Maps},  
   author={Sangly P Srinivas, Roselin Kiruba, Sudhir RR, Geetha K Iyer, Chetana Krishnan, Tapan Ravi, Prema Padmanabhan},
@@ -102,10 +106,16 @@ If you use this code for your work, please cite us.
   year={2024},  
   volume={35(4)},
   page={339–358},
-  doi = {https://doi.org/10.22452/mjcs.vol35no4.3},  
+  doi={https://doi.org/10.22452/mjcs.vol35no4.3},  
   url={https://ejournal.um.edu.my/index.php/MJCS/article/view/35825}  
 }
 ```
 
-# License
-This project is licensed under the MIT License.
+> 🔗 [Read the paper here](https://ejournal.um.edu.my/index.php/MJCS/article/view/35825)
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License**.
+
