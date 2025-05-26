@@ -100,7 +100,7 @@ If you use this code or methodology in your research, please cite the following:
 ```bibtex
 @article{
   title={Fast sampling electrooculogram (EOG) for recording blinking kinematics},  
-  author={Sangly P Srinivas; Roselin Kiruba; Sudhir RR; Geetha K Iyer; Chetana Krishnan; Tapan Ravi; Prema Padmanabhan},
+  authors={Sangly P Srinivas; Roselin Kiruba; Sudhir RR; Geetha K Iyer; Chetana Krishnan; Tapan Ravi; Prema Padmanabhan},
   conference={The Association for Research in Vision and Ophthalmology},
   journal={Investigative Ophthalmology & Visual Science},  
   year={2024},  
