@@ -99,15 +99,14 @@ If you use this code or methodology in your research, please cite the following:
 
 ```bibtex
 @article{
-  title={Real-Time Eye Tracking Using Heat Maps},  
-  author={Sangly P Srinivas, Roselin Kiruba, Sudhir RR, Geetha K Iyer, Chetana Krishnan, Tapan Ravi, Prema Padmanabhan},
+  title={Fast sampling electrooculogram (EOG) for recording blinking kinematics},  
+  author={Sangly P Srinivas; Roselin Kiruba; Sudhir RR; Geetha K Iyer; Chetana Krishnan; Tapan Ravi; Prema Padmanabhan},
   conference={The Association for Research in Vision and Ophthalmology},
   journal={Investigative Ophthalmology & Visual Science},  
   year={2024},  
-  volume={35(4)},
-  page={339–358},
-  doi={https://doi.org/10.22452/mjcs.vol35no4.3},  
-  url={https://ejournal.um.edu.my/index.php/MJCS/article/view/35825}  
+  volume={65(7)},
+  page={6587},  
+  url={[https://ejournal.um.edu.my/index.php/MJCS/article/view/35825](https://iovs.arvojournals.org/article.aspx?articleid=2799795)}  
 }
 ```
 
