@@ -110,8 +110,6 @@ If you use this code or methodology in your research, please cite the following:
 }
 ```
 
-> 🔗 [Read the paper here](https://ejournal.um.edu.my/index.php/MJCS/article/view/35825)
-
 ---
 
 ## 📄 License
